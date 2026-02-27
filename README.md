@@ -36,7 +36,11 @@ Run all cells.
 Place files together:
 
 app.py
+
+ 
 fear_greed_index.csv
+
+
 historical_data.csv
 
 Run:
@@ -80,6 +84,7 @@ PnL Distribution
 - Greed → Increase trading activity and follow trends
 
 - Use sentiment as a trading signal to adjust exposure
+
 
 
 
