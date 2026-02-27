@@ -15,18 +15,18 @@ The project includes:
 
 Install required libraries:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 ## How to Run Notebook
 
 Open Jupyter Notebook:
-
-jupyter notebook
+  
+    jupyter notebook
 
 Open:
 
-trader_sentiment_project.ipynb
+    trader_sentiment_project.ipynb
 
 Run all cells.
 
@@ -80,5 +80,6 @@ PnL Distribution
 - Greed → Increase trading activity and follow trends
 
 - Use sentiment as a trading signal to adjust exposure
+
 
 
